@@ -1,0 +1,337 @@
+[
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To determine the probability that a randomly selected point \\( P \\) from the square region with vertices at \\((\\pm 2, \\pm 2)\\) is within one unit of the origin, we need to follow these steps:\n\n1. **Calculate the area of the square:**\n   The side length of the square is the distance between \\((2, 0)\\) and \\((-2, 0)\\),",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To determine the probability that a randomly selected point \\( P \\) from the square region with vertices at \\((\\pm 2, \\pm 2)\\) is within one unit of the origin, we need to follow these steps:\n\n1. **Calculate the area of the square:**\n   The side length of the square is the distance between \\((2, 0)\\) and \\((-2, 0)\\),",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To determine the probability that a randomly selected point \\( P \\) from the square region with vertices at \\((\\pm 2, \\pm 2)\\) is within one unit of the origin, we need to follow these steps:\n\n1. **Calculate the area of the square:**\n   The side length of the square is the distance between \\((2, 0)\\) and \\((-2, 0)\\),",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To find the probability that a randomly selected point \\( P \\) from the square region with vertices at \\( (\\pm 2, \\pm 2) \\) is within one unit of the origin, we need to follow these steps:\n\n1. **Calculate the area of the square region:**\n   The side length of the square is the distance between \\( (2,0) \\) and \\( (-2,0) \\),",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To find the probability that a randomly selected point \\( P \\) from the square region with vertices at \\( (\\pm 2, \\pm 2) \\) is within one unit of the origin, we need to follow these steps:\n\n1. **Calculate the area of the square region:**\n   The side length of the square is the distance between \\( (2,0) \\) and \\( (-2,0) \\),",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To find the probability that a randomly selected point \\( P \\) from the square region with vertices at \\( (\\pm 2, \\pm 2) \\) is within one unit of the origin, we need to follow these steps:\n\n1. **Calculate the area of the square region:**\n   The side length of the square is the distance between \\( (2,0) \\) and \\( (-2,0) \\),",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To find the probability that a randomly selected point \\( P \\) from the square region with vertices at \\( (\\pm 2, \\pm 2) \\) is within one unit of the origin, we need to follow these steps:\n\n1. **Calculate the area of the square region:**\n   The side length of the square is the distance between \\( (2,0) \\) and \\( (-2,0) \\),",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To find the probability that a randomly selected point \\( P \\) from the square region with vertices at \\( (\\pm 2, \\pm 2) \\) is within one unit of the origin, we need to follow these steps:\n\n1. **Calculate the area of the square region:**\n   The side length of the square is the distance between \\( (2,0) \\) and \\( (-2,0) \\),",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To determine the probability that a randomly selected point \\( P \\) from the square region with vertices at \\((\\pm 2, \\pm 2)\\) is within one unit of the origin, we need to follow these steps:\n\n1. **Calculate the area of the square:**\n   The side length of the square is the distance between \\((2, 0)\\) and \\((-2, 0)\\),",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To determine the probability that a point $P$ randomly selected from a square with vertices $(\\pm 2, \\pm 2)$ is within one unit of the origin, we need to compute two areas: the area of the circle with radius 1 centered at the origin, and the area of the square.\n\n1. **Area of the Circle:**\n   The circle has a radius of 1, so itsarea is given by the formula for the area of a circle, $\\pi r^2$. Here, $r = 1$,so the area of the circle is $\\pi \\cdot",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1^2 = \\pi$.\n\n2. **Area of the Square:**\n   The square has vertices at $(\\pm 2, \\pm 2)$, so each side of the square is 4 units long. The area of the square is then $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability thata randomly selected point $P$ from the square is within one unit of the origin is the ratio of the area of the circle",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1^2 = \\pi$.\n\n2. **Area of the Square:**\n   The square has vertices at $(\\pm 2, \\pm 2)$, so each side of the square is 4 units long. The area of the square is then $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability thata randomly selected point $P$ from the square is within one unit of the origin is the ratio of the area of the circleto the area of the square. This probability is",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1^2 = \\pi$.\n\n2. **Area of the Square:**\n   The square has vertices at $(\\pm 2, \\pm 2)$, so each side of the square is 4 units long. The area of the square is then $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability thata randomly selected point $P$ from the square is within one unit of the origin is the ratio of the area of the circleto the area of the square. This probability is$\\frac{\\pi}{16}$.\n\nSo, the finalanswer is",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1^2 = \\pi$.\n\n2. **Area of the Square:**\n   The square has vertices at $(\\pm 2, \\pm 2)$, so each side of the square is 4 units long. The area of the square is then $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability thata randomly selected point $P$ from the square is within one unit of the origin is the ratio of the area of the circleto the area of the square. This probability is$\\frac{\\pi}{16}$.\n\nSo, the final",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To determine the probability that a point $P$ randomly selected from a square with vertices $(\\pm 2, \\pm 2)$ is within one unit of the origin, we need to compute two areas: the area of the circle with radius 1 centered at the origin, and the area of the square.\n\n1. **Area of the Circle:**\n   The circle has a radius of 1, so itsarea is given by the formula for the area of a circle, $\\pi r^2$. Here, $r = 1$,so the area of the circle is $\\pi \\cdot1^2 = \\pi$.\n\n2. **Area",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "of the Square:**\n   The square has vertices at $(\\pm 2, \\pm 2)$. The length of one side of the square is the distance between $2$ and $-2$, which is $4$. Therefore, the area of the square is $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability that a randomly selected point",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1^2 = \\pi$.\n\n2. **Area of the Square:**\n   The square has vertices at $(\\pm 2, \\pm 2)$, so each side of the square is 4 units long. The area of the square is then $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability that",
+        "mc_score": 0.4
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "point $P$ is within one unit of the origin is the ratio of the area of the circle to the area of the square. So, the probability is $\\frac{\\pi}{16}$.\n\nLet's confirm this with Python code to ensure accuracy.\n```python\nimport sympy as sp\n\n# Area of the circle with radius 1\narea_circle = sp.pi * (1**2)\n\n#",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To determine the probability that a point $P$ randomly selected from a square with vertices $(\\pm 2, \\pm 2)$ is within one unit of the origin, we need to compute two areas: the area of the circle with radius 1 centered at the origin, and the area of the square.\n\n1. **Area of the Circle:**\n   The circle has a radius of 1, so itsarea is given by the formula for the area of a circle, $\\pi r^2$. Here, $r = 1$,",
+        "mc_score": 0.4
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "to the area of the square. That is:\n   \\[\n   \\text{Probability} = \\frac{\\text{Area of Circle}}{\\text{Area of Square}}",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To determine the probability that a point $P$ randomly selected from a square with vertices $(\\pm 2, \\pm 2)$ is within one unit of the origin, we need to compute two areas: the area of the circle with radius 1 centered at the origin, and the area of the square.\n\n1. **Area of the Circle:**\n   The circle has a radius of 1, so its",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "point $P$ is within one unit of the origin is the ratio of the area of the circle to the area of the square. So, the probability is $\\frac{\\pi}{16}$.\n\nLet's confirm this with Python code to ensure accuracy.\n```python\nimport sympy as sp\n\n# Area of the circle with radius 1\narea_circle = sp.pi * (1**2)\n\n#",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "Area of the square with side length 4 (vertices at (\u00b12, \u00b12))\narea_square = 4 * 4\n\n# Probability that a point P is within one unit of the origin\nprobability = area_circle /",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "area_square\n\nprint(probability)\n```\n```output\n0.7853981633974483\n```\nThe probability that a point \\( P \\) is",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "within one unit of the origin is \\( \\frac{\\pi}{4}\\).\n\nTherefore, the final answer",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "within one unit of the origin is \\( \\frac{\\pi}{4}",
+        "mc_score": 0.4
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "within one unit of the origin is \\( \\frac{\\pi}{4}\\).\n\nTherefore, the final answeris:\n\n\\[\n\\boxed{\\frac{\\pi}{4}",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "is:\n\\[\n\\boxed{\\frac{\\pi}{4}",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "\\). To express this as a common fraction in termsof \\(\\pi\\),",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "area_square\n\nprint(probability)\n```\n```output\n0.7853981633974483\n```\nThe probability that a point \\( P \\) iswithin one unit of the origin",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "in a square region with vertices \\((\\pm 2, \\pm 2)\\) is",
+        "mc_score": 0.4
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": ").\n\\",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "[\n\\text{Area of the square}",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "= (4)(4) = 16.\n\\]\n\nNext, we calculate the area of the circle with radius 1 centered at the origin. The formula for the area of a circle is \\(\\pi r^2\\), so:\n\\[\n\\text{Area of the circle} = \\pi (1)^2 = \\pi.\n\\]\n\nThe probability that a randomly selected point \\(P\\) from",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "= (4)(4) = 16.\n\\]\n\nNext, we calculate the area of the circle with radius 1 centered at the origin. The formula for the area of a circle is \\(\\pi r^2\\), so:\n\\[\n\\text{Area of the circle} = \\pi (1)^2 = \\pi.\n\\]\n\nThe probability that a randomly selected point \\(P\\) fromthe square is within one unit of the origin is the ratio of the area of the circle to the area of the square:\n\\[\n\\text{Probability} =\\frac{\\text{Area of the circle}}{\\text{Area of the square}} =\\frac{\\pi}{16}.\n\\]\n\nThus, the probabilityis",
+        "mc_score": 0.4
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "= (4)(4) = 16.\n\\]\n\nNext, we calculate the area of the circle with radius 1 centered at the origin. The formula for the area of a circle is \\(\\pi r^2\\), so:\n\\[\n\\text{Area of the circle} = \\pi (1)^2 = \\pi.\n\\]\n\nThe probability that a randomly selected point \\(P\\) fromthe square is within one unit of the origin is the ratio of the area of the circle to the area of the square:\n\\[\n\\text{Probability} =\\frac{\\text{Area of the circle}}{\\text{Area of the square}} =\\frac{\\pi}{16}.\n\\]\n\nThus, the probability",
+        "mc_score": 0.4
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "that \\(P\\) is within one unit of theorigin is",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "= (4)(4) = 16.\n\\]\n\nNext, we calculate the area of the circle with radius 1 centered at the origin. The formula for the area of a circle is \\(\\pi r^2\\), so:\n\\[\n\\text{Area of the circle} = \\pi (1)^2 = \\pi.\n\\]\n\nThe probability that a randomly selected point \\(P\\) fromthe square is within one unit of the origin is the ratio of the area of the circle to the area of the square:\n\\[\n\\text{Probability} =",
+        "mc_score": 0.4
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "\\frac{\\text{Area of the circle}}{\\text{Area of the square}} = \\frac{\\pi}{16}.\n\\]\n\nThus,",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "= (4)(4) = 16.\n\\]\n\nNext, we calculate the area of the circle with radius 1 centered at the origin. The formula for the area of a circle is \\(\\pi r^2\\), so:\n\\[\n\\text{Area of the circle} = \\pi (1)^2 = \\pi.\n\\]\n\nThe probability that a randomly selected point \\(P\\) fromthe square is within one unit of the origin is the ratio of the area of the circle to the area of the square:\n\\[\n\\text{Probability} =\\frac{\\text{Area of the circle}}{\\text{Area of the square}} =",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "[\n\\text{Area of the square}= 4\\times4",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "[\n\\text{Area of the square}= 4\\times4=16.\n\\]\nT",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "[\n\\text{Area of the square}= 4\\times4=",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "16.\n\\]\nThe region within one unit of the origin is a circle with radius 1 centered at the origin. The area of this",
+        "mc_score": 0.4
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "in a square region with vertices \\((\\pm 2, \\pm 2)\\) is\\(\\frac{\\pi}{8}\\).\n\nS",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "\\). To express this as a common fraction in terms",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "of \\(\\pi\\), we start by calculating",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "that \\(P\\) is within one unit of the",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "origin.\n\n1. **Determine the area of the square:**\n   The square has vertices at \\((\\pm 2, \\pm 2)\\). The side length of the square is the distance between two adjacent vertices, which is:\n   \\[\n   2 - (-2) = 4\n   \\]\n   The area \\(A_{\\text{square}}\\) of the square is:\n   \\[\n   A_{\\text{square}} = 4",
+        "mc_score": 0.4
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "= (4)(4) = 16.\n\\]\n\nNext, we calculate the area of the circle with radius 1 centered at the origin. The formula for the area of a circle is \\(\\pi r^2\\), so:\n\\[\n\\text{Area of the circle} = \\pi (1)^2 = \\pi.\n\\]\n\nThe probability that a randomly selected point \\(P\\) from",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "To determine the probability that a point $P$ randomly selected from a square with vertices $(\\pm 2, \\pm 2)$ is within one unit of the origin, we need to compute two areas: the area of the circle with radius 1 centered at the origin, and the area of the square.\n\n1. **Area of the Circle:**\n   The circle has a radius of 1, so itsarea is given by the formula for the area of a circle, $\\pi r^2$. Here, $r = 1$,so the area of the circle is $\\pi \\cdot",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1^2 = \\pi$.\n\n2. **Area of the Square:**\n   The square has side length 4 (since the distance from $-2$ to $2$ is 4), so its area is $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability that a point $P$ is within one unit of the origin is the ratio of",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "the area of the circle to the area of the square.\n   \\[\n   \\text{Probability} = \\frac{\\text{Area of the circle}}{\\text{Area of the",
+        "mc_score": 0.4
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1^2 = \\pi$.\n\n2. **Area of the Square:**\n   The square has side length 4 (since the distance from $-2$ to $2$ is 4), so its area is $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability that a point $P$ is within one unit of the origin is the ratio of",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "[\n\\text{Area of the square}",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1^2 = \\pi$.\n\n2. **Area of the Square:**\n   The square has vertices at $(\\pm 2, \\pm 2)$, so each side of the square is 4 units long. The area of the square is then $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability thata randomly selected point $P$ from the square is within one unit of the origin is the ratio of the area of the circle",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1^2 = \\pi$.\n\n2. **Area of the Square:**\n   The square has vertices at $(\\pm 2, \\pm 2)$, so each side of the square is 4 units long. The area of the square is then $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability thata randomly selected point $P$ from the square is within one unit of the origin is the ratio of the area of the circleto the area of the square. This probability is",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "that \\(P\\) is within one unit of theorigin is",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "within one unit of the origin is \\( \\frac{\\pi}{4}\\).\n\nTherefore, the final answer",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "is:\n\\[\n\\boxed{\\frac{",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1}{4}\\pi}",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "1^2 = \\pi$.\n\n2. **Area of the Square:**\n   The square has vertices at $(\\pm 2, \\pm 2)$, so each side of the square is 4 units long. The area of the square is then $4 \\times 4 = 16$.\n\n3. **Probability Calculation:**\n   The probability thata randomly selected point $P$ from the square is within one unit of the origin is the ratio of the area of the circleto the area of the square. This probability is$\\frac{\\pi}{16}$.\n\nSo, the final",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "\\frac{\\text{Area of the circle}}{\\text{Area of the square}} = \\frac{\\pi}{16}.\n\\]\n\nThus,",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "the probability that a randomly selected point within the squareis within one unit of the originis",
+        "mc_score": 0.6
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "the probability that a randomly selected point within the square",
+        "mc_score": 0.2
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "region with vertices at \\((\\pm 2, \\pm 2)\\) is within one unit of the origin, we need to follow these steps:\n\n1. **Calculate the area of the square:**\n   The side length of the square is the distance between \\((2, 0)\\) and \\((-2, 0)\\), which is \\(4\\). Therefore, the area of the square is:\n   \\[",
+        "mc_score": 0.8
+    },
+    {
+        "question": "A point $P$ is randomly selected from the square region with vertices at $(\\pm 2, \\pm 2)$. What is the probability that $P$ is within one unit of the origin? Express your answer as a common fraction in terms of $\\pi$.",
+        "partial_answer": "the probability that a randomly selected point within the squareis within one unit of the origin",
+        "mc_score": 0.2
+    }
+]

@@ -1,7 +1,9 @@
 import json
 import logging
 from datetime import datetime
-from module import Node, perform_rollouts, process_annotations, calculate_mc_score
+import os
+os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
+from module_vllm import Node, perform_rollouts, process_annotations, calculate_mc_score
 
 def load_json_file(file_path):
     """
@@ -64,9 +66,10 @@ def main():
         max_rollouts = 20
         rollouts, correctness_flags = perform_rollouts(root_node, max_rollouts)
         mc_score = calculate_mc_score(root_node)
+        print('MC Score:', mc_score)
         root_node.mc_score = mc_score
 
-        nodes.append(root_node)
+        nodes.append(root_node) # What is the purpose of this line?
 
         # Check if further processing is needed
         if 0 < sum(correctness_flags) < max_rollouts:

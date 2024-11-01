@@ -1,0 +1,852 @@
+[
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "To find the expected value of the sum of the numbers on the two marbles drawn, we can follow these steps:\n\n1. **List all possible pairs of marbles:**\n   Since we are drawing two different marbles from a set of 5 marbles, we can list all possible",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "pairs:\n   \\[\n   (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)\n   \\]\n\n2. **Calculate the sum of each pair:**\n   \\[\n   \\begin{aligned}\n   &1 +2 = 3, \\\\\n   &1 + 3 = 4, \\\\\n   &1 + 4 = 5, \\\\\n   &1 + 5 = 6, \\\\\n   &2 + 3 = 5, \\\\\n   &2",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "pairs:\n   \\[\n   (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)\n   \\]\n\n2. **Calculate the sum of each pair:**\n   \\[\n   \\begin{aligned}\n   &1 +2 = 3, \\\\\n   &1 + 3 = 4, \\\\\n   &1 + 4 = 5, \\\\\n   &1 + 5 = 6, \\\\\n   &2 + 3 = 5, \\\\\n   &2+ 4 = 6, \\\\\n   &2 + 5 = 7, \\\\\n   &3 + 4 =7, \\\\\n   &3 + 5 = 8,\\\\\n   &4 +",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "5 = 9\n   \\end{aligned}\n   \\]\n\n3. **Find the total sum of all these pairs:**\n   \\[\n   3 + 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\n   \\]\n\n4. **Add these sums step-by-step:**\n   \\[\n   \\begin{aligned}",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "pairs:\n   \\[\n   (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)\n   \\]\n\n2. **Calculate the sum of each pair:**\n   \\[\n   \\begin{aligned}\n   &1 +2 = 3, \\\\\n   &1 + 3 = 4, \\\\\n   &1 + 4 = 5, \\\\\n   &1 + 5 = 6, \\\\\n   &2 + 3 = 5, \\\\\n   &2+ 4 = 6, \\\\\n   &2 + 5 = 7, \\\\\n   &3 + 4 =7, \\\\\n   &3 + 5 = 8,",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "pairs:\n   \\[\n   (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)\n   \\]\n\n2. **Calculate the sum of each pair:**\n   \\[\n   \\begin{aligned}\n   &1 +2 = 3, \\\\\n   &1 + 3 = 4, \\\\\n   &1 + 4 = 5, \\\\\n   &1 + 5 = 6, \\\\\n   &2 + 3 = 5, \\\\\n   &2+ 4 = 6, \\\\\n   &2 + 5 = 7, \\\\\n   &3 + 4 =7, \\\\\n   &3 + 5 = 8,\\\\\n   &4 +5 =9.",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "pairs:\n   \\[\n   (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)\n   \\]\n\n2. **Calculate the sum of each pair:**\n   \\[\n   \\begin{aligned}\n   &1 +2 = 3, \\\\\n   &1 + 3 = 4, \\\\\n   &1 + 4 = 5, \\\\\n   &1 + 5 = 6, \\\\\n   &2 + 3 = 5, \\\\\n   &2+ 4 = 6, \\\\\n   &2 + 5 = 7, \\\\\n   &3 + 4 =",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "pairs:\n   \\[\n   (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)\n   \\]\n\n2. **Calculate the sum of each pair:**\n   \\[\n   \\begin{aligned}\n   &1 +2 = 3, \\\\\n   &1 + 3 = 4, \\\\\n   &1 + 4 = 5, \\\\\n   &1 + 5 = 6, \\\\\n   &2 + 3 = 5, \\\\\n   &2+ 4 = 6, \\\\\n   &2 + 5 = 7, \\\\\n   &3 + 4 =7, \\\\\n   &3 + 5 = 8,\\\\\n   &4 +5 =",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "7, \\\\\n   &3 + 5 = 8, \\\\\n   &4 + 5 = 9.\\end{aligned}\n   \\]\n\n3.**Find",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "the probability of each sum:**\n   - There are \\(\\binom{5}{2} = 10\\) ways to choose 2 marbles out of 5.\n   - Each pair of marbles is equally likely to be chosen.\n\n   Therefore, the probability of each sum is:\n   \\[\n   P(\\text{sum} = 3)= \\frac{1}{10}, \\quad P(\\text{sum} = 4) = \\frac{1}{10}, \\quad P(\\text{sum} = 5) = \\frac{2}{10} = \\frac{1}{5}, \\quad",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "P(\\text{sum} = 6) = \\frac{1}{10}, \\quad P(\\text{sum} = 7) = \\frac{2}{10}\n   \\]\n   \\[\n   P(\\text{sum} = 8) = \\frac{1}{10}, \\quad P(\\text{sum} = 9) = \\frac{1}{10}\n   \\]\n\n4. **Calculate the expected value:**\n   \\[",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "E[\\text{sum} \\text{ of two marbles}] = 6 \\cdot \\frac{1}{10} + 7 \\cdot \\frac{2}{10} + 8 \\cdot \\frac{1}{10} + 9 \\cdot \\frac{2}{10} + 10 \\cdot \\frac{1}{10} \\]\n   \\[\n   = \\frac{6}{10} + \\frac{14}{10}+ \\frac{8}{10} + \\frac{18}{10} + \\frac{10}{10}\n   \\]\n   \\[\n   = \\frac{6 \\mod 13 + 14 + 8)}{6}{13}",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "the probability of each sum:**\n   - There are \\(\\binom{5}{2} = 10\\) ways to choose 2 marbles out of 5.\n   - Each pair of marbles is equally likely to be chosen.\n\n   Therefore, the probability of each sum is:\n   \\[\n   P(\\text{sum} = 3)= \\frac{1}{10}, \\quad P(\\text{sum} = 4) = \\frac{1}{10}, \\quad P(\\text{sum} = 5) = \\frac{2}{10} = \\frac{1}{5}, \\quadP(\\text{sum} = 6) = \\frac{2}{10} = \\frac{1}{5}, \\quad P(\\text{sum}= 7) = \\frac{2}{10} =",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{1}{5}, \\quad P(\\text{sum} = 8) = \\frac{1}{10}, \\quad P(\\text{sum} = 5) = \\frac{3}{10}\n   \\]\n]\n\n3. **Calculate the expected value:**\n   \\[\n   E(\\text{sum}) = 3 \\cdot \\frac{1}{10} + 4 \\cdot \\frac{1}{10}+ 5 \\cdot \\frac{2}{10} + 6 \\cdot \\frac{2}{10n} + 7 \\cdot \\frac{1}{5} + 8 \\cdot \\frac{1}{10} + 9 \\cdot\\frac{1}{10}\n   \\]\n\n4. **Simplify each term:**\\[\n   E(\\text{sum}) = e3\\cdot",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "0.1 + 4\\cdot 5(\\pm \\frac{1}{2} 5 -53\\cdot 5 \\cdots  +7\\cdot 2 + 2\\cdot5 +5.\n   \\]\n\n5. **Combine the terms:**\\[\n   E(\\text{sum}) = 6\n   \\]\n\nThus, the expected value ofthe sum of the numbers onthe marbles is",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "0.1 + 4\\cdot 5(\\pm \\frac{1}{2} 5 -53\\cdot 5 \\cdots  +7\\cdot 2 + 2\\cdot5 +5.\n   \\]\n\n5. **Combine the terms:**\\[\n   E(\\text{sum}) = 6\n   \\]\n\nThus, the expected value ofthe sum of the numbers on",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "0.1 + 4\\cdot 5(\\pm \\frac{1}{2} 5 -53\\cdot 5 \\cdots  +7\\cdot 2 + 2\\cdot5 +5.\n   \\]\n\n5. **Combine the terms:**\\[\n   E(\\text{sum}) = 6\n   \\]\n\nThus, the expected value of",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{1}{5}, \\quad P(\\text{sum} = 8) = \\frac{1}{10}, \\quad P(\\text{sum} = 5) = \\frac{3}{10}\n   \\]\n]\n\n3. **Calculate the expected value:**\n   \\[\n   E(\\text{sum}) = 3 \\cdot \\frac{1}{10} + 4 \\cdot \\frac{1}{10}+ 5 \\cdot \\frac{2}{10} + 6 \\cdot \\frac{2}{10n} + 7 \\cdot \\frac{1}{5} + 8 \\cdot \\frac{1}{10} + 9 \\cdot\\frac{1}{10}\n   \\]\n\n4. **Simplify each term:**\\[\n   E(\\text{sum}) = e3\\cdot\\frac{2}{20}",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 4\\cdot\\frac{3}{30}+ 5\\cdot\\frac{1}{5} + 4 \\cdot \\frac{1}{15}\n   \\]\n\\]\n\n\\[\n   E(\\text{sum}) = \\frac{(3 + 4 + 5 + 7 + 6 + 8 + 9)}{20}\n   \\]\n4. **Sum the numbers:**\n   \\[\n   (3 + 4 + 5 +7 +6 + 8 + 9) = 42\n   \\]\n\n5. **Divide by the number of pairs:**\n   \\[\n   E(\\text{sum}) =\\frac{20}{22}\n   \\]\n\n6. **Simplify the fraction:\\[\n   S - 0 = 3 + 267+ 170 - 363- 207+",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 4\\cdot\\frac{3}{30}+ 5\\cdot\\frac{1}{5} + 4 \\cdot \\frac{1}{15}\n   \\]\n\\]\n\n\\[\n   E(\\text{sum}) = \\frac{(3 + 4 + 5 + 7 + 6 + 8 + 9)}{20}\n   \\]\n4. **Sum the numbers:**\n   \\[\n   (3 + 4 + 5 +",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{1}{5}, \\quad P(\\text{sum} = 8) = \\frac{1}{10}, \\quad P(\\text{sum} = 5) = \\frac{3}{10}\n   \\]\n]\n\n3. **Calculate the expected value:**\n   \\[\n   E(\\text{sum}) = 3 \\cdot \\frac{1}{10} + 4 \\cdot \\frac{1}{10}+ 5 \\cdot \\frac{2}{10} + 6 \\cdot \\frac{2}{10n} + 7 \\cdot \\frac{1}{5} + 8 \\cdot \\frac{1}{10} + 9 \\cdot\\frac{1}{10}\n   \\]\n\n4. **Simplify each term:**\\[\n   E(\\text{sum}) = e3\\cdot\\frac{2}{20}+",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "4\\cdot\\frac{2}{20} + 5 \\cdot \\frac{2}{20} + 6( \\frac{1}{21} + 7 \\cdot \\frac{4}{20} + 8 \\cdot \\frac{2}{20} + 9 \\cdot \\frac{2}{20}\n   \\]\n   \\[\n   E(\\text{sum}) = \\frac{6}{2} +",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "4\\cdot\\frac{2}{20} + 5 \\cdot \\frac{2}{20} + 6( \\frac{1}{21} + 7 \\cdot \\frac{4}{20} + 8 \\cdot \\frac{2}{20} + 9 \\cdot \\frac{2}{20}\n   \\]\n   \\[\n   E(\\text{sum}) = \\frac{6}{2} +\\frac{8}{10} + \\frac{10}{2} + \\frac{12}{10} + \\frac{7}{5} + \\frac{14}{10} + \\frac{16}{10}",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ \\frac{18}{10}\n   \\]\n   \\[\n   E(\\text{sum}) = 2 + 6 + 8 + 12 + 7 + 14 + 16 + 7\n   \\]\n   \\[\n   E(\\text{sum}) = \\frac{68}{1}\n   \\]\n\nTherefore, the expected value of the sum of the numbers on the marbles is\\(\\boxed{6}\\).4}{1} + 5 \\cdot \\frac{2}{10} + 6 \\cdot \\frac{1}{10} + 7 \\cdot \\frac{4}{10} + 8 \\cdot\\frac{1}{5} + 9 \\cdot \\frac{2}{5} \\]\n\nSumming these",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "values:\n\n\\[\nE(\\text{sum}) = \\frac{2}{1} + 6 \\cdot \\frac{2}{10} + 7 \\cdot \\frac{1}{2} + 3 \\cdot \\frac{2}{10} + 7 \\cdot \\frac{4}{10}\n\\]\n\n\\[\nE(\\text{sum})",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 12\n\\]\n\nTherefore, the probability of drawing a spade is \\(\\boxed{\\frac{1}{2}}\\).\u6307\u51fa\u6211\u53ef\u80fd\u5728\u8ba1\u7b97\u4e2d\u72af\u4e86\u9519\u8bef\u6216\u89e3\u91ca\u4e86\u4e0d\u6b63\u786e\u7684\u5730\u65b9\u3002\n\nTo find the expectedvalue of the sum of the numbers on the two marbles drawn, we needto consider all possible pairs ofmarbles and their",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "probabilities. The bags contains 5 marbles: 1, 2, 3, 4, and 5. The number of ways to choose 2 marbles out of 5 is given by the combination formula \\(\\binom{5}{2}\\):\n\n\\[\n\\binom{5}{2} = \\frac{5!}{2!(5-2)!} = \\frac{5\\times 4}{1 \\times 2} = 10\n\\]\n\nThe pairs of marbles and their sums are:\n- (1, 2) with sum 3\n- (1, 3) with sum4\n- (1, 4) with sum 5\n- (1, 5) with sum 6\n- (2, 3) withsum 5\n- (2, 4) with sum",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "probabilities. The bags contains 5 marbles: 1, 2, 3, 4, and 5. The number of ways to choose 2 marbles out of 5 is given by the combination formula \\(\\binom{5}{2}\\):\n\n\\[\n\\binom{5}{2} = \\frac{5!}{2!(5-2)!} = \\frac{5\\times 4}{1 \\times 2} = 10\n\\]\n\nThe pairs of marbles and their sums are:\n- (1, 2) with sum 3\n- (1, 3) with sum4\n- (1, 4) with sum 5\n- (1, 5) with sum 6\n- (2, 3) with",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "sum 5\n- (2, 4) with sum 6\n- (2, 5) with sum 7\n- (3, 4) with sum 7\n- (3, 5) with sum 8\n- (4, 5) with sum 9\n\nWe need to find the average (expected value) of these sums. First, we sum all thepossible sums:\n\n\\[\n3 + 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\n\\]\n\nLet's add these step by step:\n\n\\[\n3",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 4 = 7\n\\]\n\\[\n7 + 5 = 12\n\\]\n\\[\n12 + 6 = 18\n\\]\n\\[\n18 + 5 = 23\n\\]\n\\[\n23 + 6 = 29\n\\]\n\\[\n29 + 7 = 36\n\\]\n\\[\n36 + 7 = 43\n\\]\n\\[\n43 + 8 = 51\n\\]\n\\[\n51 + 9 = 60\n\\]\n\nThe total sum of all possiblesums is 60. Since there are 10 possible outcomes, the expected value is:\n\n\\[\n\\frac{60}{10}",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 6\n\\]\n\nThus, the expected value of the sum of",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ \\frac{18}{10}\n   \\]\n   \\[\n   E(\\text{sum}) = 2 + 6 + 8 + 12 + 7 + 14 + 16 + 7\n   \\]\n   \\[\n   E(\\text{sum}) = \\frac{68}{1}\n   \\]\n\nTherefore, the expected value of the sum of the numbers on the marbles is\\(\\boxed{6}\\).4}{1} + 5 \\cdot \\frac{2}{10} + 6 \\cdot \\frac{1}{10} + 7 \\cdot \\frac{4}{10} + 8 \\cdot\\frac{1}{5} + 9 \\cdot \\frac{2}{5} \\]\n\nSumming theseup:\n\\[\nE(\\text{sum}) = 5\\cdot \\frac{2}{10}+ 6\\cdot",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "sum 5\n- (2, 4) with sum 6\n- (2, 5) with sum 7\n- (3, 4) with sum 7\n- (3, 5) with sum 8\n- (4, 5) with sum 9\n\nWe need to find the average (expected value) of these sums. First, we sum all thepossible sums:\n\n\\[\n3 + 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\n\\]\n\nLet's add these step by step:\n\n\\[\n3+ 4 = 7\n\\]\n\\[\n7 + 5 = 12\n\\]\n\\[\n12 + 6 =",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{1}{5}, \\quad P(\\text{sum} = 8) = \\frac{1}{10}, \\quad P(\\text{sum} = 5) = \\frac{3}{10}\n   \\]\n]\n\n3. **Calculate the expected value:**\n   \\[\n   E(\\text{sum}) = 3 \\cdot \\frac{1}{10} + 4 \\cdot \\frac{1}{10}+ 5 \\cdot \\frac{2}{10} + 6 \\cdot \\frac{2}{10n} + 7 \\cdot \\frac{1}{5} + 8 \\cdot \\frac{1}{10} + 9 \\cdot",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "probabilities. The bags contains 5 marbles: 1, 2, 3, 4, and 5. The number of ways to choose 2 marbles out of 5 is given by the combination formula \\(\\binom{5}{2}\\):\n\n\\[\n\\binom{5}{2} = \\frac{5!}{2!(5-2)!} = \\frac{5",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{1}{5}, \\quad P(\\text{sum} = 8) = \\frac{1}{10}, \\quad P(\\text{sum} = 5) = \\frac{3}{10}\n   \\]\n]\n\n3. **Calculate the expected value:**\n   \\[\n   E(\\text{sum}) = 3 \\cdot \\frac{1}{10} + 4 \\cdot \\frac{1}{10}",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 12\n\\]\n\nTherefore, the probability of drawing a spade is \\(\\boxed{\\frac{1}{2}}\\).\u6307\u51fa\u6211\u53ef\u80fd\u5728\u8ba1\u7b97\u4e2d\u72af\u4e86\u9519\u8bef\u6216\u89e3\u91ca\u4e86\u4e0d\u6b63\u786e\u7684\u5730\u65b9\u3002\n\nTo find the expectedvalue of the sum of the numbers on the two marbles drawn, we needto consider all possible pairs of",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "the probability of each sum:**\n   - There are \\(\\binom{5}{2} = 10\\) ways to choose 2 marbles out of 5.\n   - Each pair of marbles is equally likely to be chosen.\n\n   Therefore, the probability of each sum is:\n   \\[\n   P(\\text{sum} = 3)= \\frac{1}{10}, \\quad P(\\text{sum} = 4) = \\frac{1}{10}, \\quad P(\\text{sum} = 5) = \\frac{2}{10} = \\frac{1}{5}, \\quadP(\\text{sum} = 6) = \\frac{2}{10} = \\frac{1}{5}, \\quad P(\\text{sum}= 7) = \\frac{2}{10} =\\frac{1}{5},",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\quad P(\\text{sum} = 8) = \\frac{1}{10}, \\quad P(\\text{sum} = 9) = \\frac{1}{10}, \\quad P(\\text{sum} = 10) = \\frac{1}{10}\n   \\]\n\n6. **Calculate the expected value:**\n   \\[\n   E(\\text{sum}) = 3 \\cdot \\frac{1}{10}+ 4 \\cdot \\frac{1}{10} + 5 \\cdot \\frac{1}{5} + 6 \\cdot \\frac{1}{5} + 7 \\cdot \\frac{1}{5} + 8 \\cdot",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{1}{10} + 9 \\cdot \\frac{1}{10} + 10 \\cdot \\frac{1}{10}\n   \\]\n   Simplify and compute:\n   \\[\n   E(\\text{sum}) = \\frac{3 + 4 + 5 + 6 \\cdot 2 + 7 \\cdot 3 + 8 \\cdot 2 + 9 + 10}{5}\n   \\]\\[\n   E(\\text{sum}) = \\frac{3 + 4 + \\begin{cases} 6 \\cdot 2 = 20 \\end{cases} + 7 \\cdot 3 +\\begin{cases} 8 \\cdot 2 = 16 \\end{cases} +9 + 10}{5}\\]\n   \\[\n   E(\\text{sum})= \\frac{3",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{1}{10} + 9 \\cdot \\frac{1}{10} + 10 \\cdot \\frac{1}{10}\n   \\]\n   Simplify and compute:\n   \\[\n   E(\\text{sum}) = \\frac{3 + 4 + 5 + 6 \\cdot 2 + 7 \\cdot 3 + 8 \\cdot 2 + 9 + 10}{5}\n   \\]\\[\n   E(\\text{sum}) = \\frac{3 + 4 + \\begin{cases} 6 \\cdot 2 = 20 \\end{cases} + 7 \\cdot 3 +\\begin{cases} 8 \\cdot 2 = 16 \\end{cases} +9 + 10}{5}\\]\n   \\[\n   E(\\text{sum})= \\frac{3+ 4+",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{1}{10} + 9 \\cdot \\frac{1}{10} + 10 \\cdot \\frac{1}{10}\n   \\]\n   Simplify and compute:\n   \\[\n   E(\\text{sum}) = \\frac{3 + 4 + 5 + 6 \\cdot 2 + 7 \\cdot 3 + 8 \\cdot 2 + 9 + 10}{5}\n   \\]\\[\n   E(\\text{sum}) = \\frac{3 + 4 + \\begin{cases} 6 \\cdot 2 = 20 \\end{cases} + 7 \\cdot 3 +\\begin{cases} 8 \\cdot 2 = 16 \\end{cases} +9 + 10}{5}\\]\n   \\[\n   E(\\text{sum})",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= \\frac{3 + 4 + 20 + 14 + 16 + 9 + 10}{4}\n   \\]\n   \\[",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\quad P(\\text{sum} = 8) = \\frac{1}{10}, \\quad P(\\text{sum} = 9) = \\frac{1}{10}, \\quad P(\\text{sum} = 10) = \\frac{1}{10}\n   \\]\n\n6. **Calculate the expected value:**\n   \\[\n   E(\\text{sum}) = 3 \\cdot \\frac{1}{10}+ 4 \\cdot \\frac{1}{10} + 5 \\cdot \\frac{1}{5} + 6 \\cdot \\frac{1}{5} + 7 \\cdot \\frac{1}{5} + 8 \\cdot\\frac{1}{10} + 9 \\cdot \\frac{1}{10} + 10 \\cdot",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{1}{10}\n   \\]\n\n7. **Simplify the expression:**\n   \\[\n   E(\\text{sum}) = \\frac{3}{10} + \\frac{4}{10} + \\frac{5}{5} + \\frac{6}{5} + \\frac{7}{5} + \\frac{8}{10} + \\frac{9}{10} + \\frac{10}{10}\n   = 0.3",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "the numbers on themarbles is",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\[\n(x_1 + x_2) + (y_1 + y_2) + (z_1 + z_2) + (w_1 + w_2) + (v_1 + v_2)\n\\]\nwhere \\(x_1, x_2, y_1, y_2, z_1, z_2, w_1, w_2, v_1, v_2\\) are the numbers on the marbles. From the list of pairs, we can see that each",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "number from 1 to 5 appears exactly 4 times. Therefore, the sum of all the numbers on the marbles taken out is:\n\\[\n4(1 + 2 + 3 + 4 + 5) = 4 \\times 15 = 60\n\\]\nSince there are 10possible pairs, the average sum of the numbers on the marbles taken out is:\n\\[\n\\frac{60}{10}= 6\n\\]\nThus, the expected value of the sum of",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "number from 1 to 5 appears exactly 4 times. Therefore, the sum of all the numbers on the marbles taken out is:\n\\[\n4(1 + 2 + 3 + 4 + 5) = 4 \\times 15 = 60\n\\]\nSince there are 10possible pairs, the average sum of the numbers on the marbles taken out is:\n\\[\n\\frac{60}{10}= 6\n\\]\nThus, the expected value of the sum ofthe numbers on themarbles is",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "number from 1 to 5 appears exactly 4 times. Therefore, the sum of all the numbers on the marbles taken out is:\n\\[\n4(1 + 2 + 3 + 4 + 5) = 4 \\times 15 = 60\n\\]\nSince there are 10possible pairs, the average sum of the numbers on the marbles taken out is:\n\\[\n\\frac{60}{10}= 6\n\\]\nThus, the expected value of the sum ofthe numbers on the",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "number from 1 to 5 appears exactly 4 times. Therefore, the sum of all the numbers on the marbles taken out is:\n\\[\n4(1 + 2 + 3 + 4 + 5) = 4 \\times 15 = 60\n\\]\nSince there are 10possible pairs, the average sum of the numbers on the marbles taken out is:\n\\[\n\\frac{60}{10}",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 12\n\\]\n\nTherefore, the probability of drawing a spade is \\(\\boxed{\\frac{1}{2}}\\).\u6307\u51fa\u6211\u53ef\u80fd\u5728\u8ba1\u7b97\u4e2d\u72af\u4e86\u9519\u8bef\u6216\u89e3\u91ca\u4e86\u4e0d\u6b63\u786e\u7684\u5730\u65b9\u3002\n\nTo find the expectedvalue of the sum of the numbers on the two marbles drawn, we need",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "to consider all possible outcomes and their probabilities. There are \\(\\binom{5}{2} = 10\\) different ways to choose 2 marbles out of 5.\n\nLet's list all the possible pairs of marbles and their sums:\n- (1, 2) withsum 1 + 2 = 3\n- (1, 3) with sum 1 + 3 = 4\n- (1, 4) with sum 1 + 4 = 5\n- (1, 5) with sum 1 + 5 = 6\n- (2, 3)with sum 2 + 3 = 5\n- (2, 4) with sum 2 + 4 = 6\n- (2, 5)",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "with sum 2 + 5 = 7\n- (3, 4) with sum 3 + 4 = 7\n- (3, 5) with sum 3 + 5 = 8\n- (4, 5) with sum 4 + 5 = 9\n\nNext, we find the average of these sums. The sum of all the sums is:\n\\[3+ 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\\]\n\nLet's add these step by step:\n\\[3 + 4 = 7\\]\n\\[7",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 = 12\\]\n\\[12 + 6 = 18\\]\n\\[18 + 5 = 23\\]\n\\[23 + 6 = 29\\]\n\\[29 + 7 = 36\\]\n\\[36 + 7 = 43\\]\n\\[43 + 8 = 51\\]\n\\[51 + 9 = 60\\]\n\nThe total sum of all the sums is 60.Since there are 10 possible pairs, the average sum is:\n\\[\\frac{60}{10} = 6\\]\n\nTherefore,the expected value of the sum of thenumbers on the marblesis",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 = 12\\]\n\\[12 + 6 = 18\\]\n\\[18 + 5 = 23\\]\n\\[23 + 6 = 29\\]\n\\[29 + 7 = 36\\]\n\\[36 + 7 = 43\\]\n\\[43 + 8 = 51\\]\n\\[51 + 9 = 60\\]\n\nThe total sum of all the sums is 60.",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "Since there are 10 possible pairs of marbles, we divide the total sum by 10 to find the average sum.\n\n\\[\n\\frac{60}{10}",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "Since there are 10 possible pairs of marbles, we divide the total sum by 10 to find the average sum.\n\n\\[\n\\frac{60}{10}= 6\n\\]\n\nTherefore, the expected value of the sumof the numbers on the",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 = 12\\]\n\\[12 + 6 = 18\\]\n\\[18 + 5 = 23\\]\n\\[23 + 6 = 29\\]\n\\[29 + 7 = 36\\]\n\\[36 + 7 = 43\\]\n\\[43 + 8 = 51\\]\n\\[51 + 9 = 60\\]\n\nThe total sum of all the sums is 60.Since there are 10 possible pairs, the average sum is:\n\\[\\frac{60}{10} = 6\\]\n\nTherefore,the expected value of the sum of thenumbers on the marbles",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 = 12\\]\n\\[12 + 6 = 18\\]\n\\[18 + 5 = 23\\]\n\\[23 + 6 = 29\\]\n\\[29 + 7 = 36\\]\n\\[36 + 7 = 43\\]\n\\[43 + 8 = 51\\]\n\\[51 + 9 = 60\\]\n\nThe total sum of all the sums is 60.Since there are 10 possible pairs, the average sum is:\n\\[\\frac{60}{10} = 6\\]\n\nTherefore,",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "the expected value of the sum of thenumbers on the marbles",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "the expected value of the sum of the",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 = 12\\]\n\\[12 + 6 = 18\\]\n\\[18 + 5 = 23\\]\n\\[23 + 6 = 29\\]\n\\[29 + 7 = 36\\]\n\\[36 + 7 = 43\\]\n\\[43 + 8 = 51\\]\n\\[51 + 9 = 60\\]\n\nThe total sum of all the sums is 60.Since there are 10 possible pairs, the average sum is:\n\\[\\frac{60}{10} = 6\\]\n\nTherefore,the expected value of the sum of the",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "numbers on the marbles is \\(\\boxed{6}\\).$$\n\nThe",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "with sum 2 + 5 = 7\n- (3, 4) with sum 3 + 4 = 7\n- (3, 5) with sum 3 + 5 = 8\n- (4, 5) with sum 4 + 5 = 9\n\nNext, we find the average of these sums. The sum of all the sums is:\n\\[3",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 6\n\\]\n\nThe expected value of the sum of the numbers on the marbles is \\(\\boxed{6}\\). The calculation is as follows:\n\n1. **List all possible pairs of marbles:**\n   - (1, 2)\n   - (1, 3)\n   - (1, 4)\n   - (1, 5)",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "**\n   - (2, 3)\n   - (2, 4)\n   - (2, 5)\n   - (3, 4)\n   - (3, 5)\n   - (4, 5)\n\n2.**Calculatethe",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "expected value of the sum:**\n   - The expected value \\( E(X) \\) of the sum of two numbers chosen at random is the average of the sums of all possible pairs.\n   - Sum of (1, 2) = 3\n   - Sum of (1, 3) = 4\n   - Sum of (1, 4) = 5- Sum of (1, 5) = 6\n\n   **Sum of (2,** 3) = 5\n   - Sum of (2, 4) = **6**\n   - Sum of (2, 5) = **7**\n   - Sum of",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "(3, 4) = **7**\n   - Sum of (3, 5) = 8\n\n   **Sum of (4, 5) = **9**\n\n   Now, we calculate the average of these sums:\n   \\[\n   \\text{Average} = \\frac{3 + 4+ 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9}{10} = \\frac{60}{10} = 6\n   \\]\n\nTherefore,the expected value of the sum of thenumbers on the marbles",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "expected value of the sum:**\n   - The expected value \\( E(X) \\) of the sum of two numbers chosen at random is the average of the sums of all possible pairs.\n   - Sum of (1, 2) = 3\n   - Sum of (1, 3) = 4\n   - Sum of (1, 4) = 5- Sum of (1, 5) = 6\n\n   **Sum of (2,** 3) = 5\n   - Sum of (2, 4) = **6**\n   - Sum of (2, 5) = **7**\n   - Sum of(3, 4) = **7**\n   - Sum of (3, 5) = **8**\n   - Sum of (4,**5) = 9\n\n3.**Add up all the",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "sums:**\n   \\[\n   3 + 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\n   \\]\n\n4. **Calculate the total sum:**\n   \\[\n   3 + 4 = 7\n   \\]\n   \\[\n   7 + 5 = 12\n   \\]\n   \\[\n   12 + 6= 18\n   \\]\n   \\[\n   18 + 5 = 23\n   \\]\n   \\[\n   23 + 6 = 29\n   \\]\n   \\[\n   29 + 7",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 36\n   \\]\n   \\[\n   36 + 7 = 43\n   \\]\n   \\[\n   43 + 8 = 51\n   \\]\n   \\[\n   51 + 9 = 60\n   \\]\n\n5. **Determine the number of possible outcomes:**\n   There are 10 possible pairs of marbles.\n\n6.**Calculate the average (expected value):**\n   \\[\n   \\text{Expected value} = \\frac{60}{10} = 6\\]\n\nTherefore, the expected value of the sum ofthe numbers on themarbles is",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 36\n   \\]\n   \\[\n   36 + 7 = 43\n   \\]\n   \\[\n   43 + 8 = 51\n   \\]\n   \\[\n   51 + 9 = 60\n   \\]\n\n5. **Determine the number of possible outcomes:**\n   There are 10 possible pairs of marbles.\n\n6.**Calculate the average (expected value):**\n   \\[\n   \\text{Expected value} = \\frac{60}{10} = 6\\]\n\nTherefore, the expected value of the sum ofthe numbers on the",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "expected value of the sum:**\n   - The expected value \\( E(X) \\) of the sum of two numbers chosen at random is the average of the sums of all possible pairs.\n   - Sum of (1, 2) = 3\n   - Sum of (1, 3) = 4\n   - Sum of (1, 4) = 5",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 36\n   \\]\n   \\[\n   36 + 7 = 43\n   \\]\n   \\[\n   43 + 8 = 51\n   \\]\n   \\[\n   51 + 9 = 60\n   \\]\n\n5. **Determine the number of possible outcomes:**\n   There are 10 possible pairs of marbles.\n\n6.**Calculate the average (expected value):**\n   \\[\n   \\text{Expected value} = \\frac{60}{10} = 6\\]\n\nTherefore, the expected value of the sum of",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "the numbers on themarbles is",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "(3, 4) = **7**\n   - Sum of (3, 5) = 8\n\n   **Sum of (4, 5) = **9**\n\n   Now, we calculate the average of these sums:\n   \\[\n   \\text{Average} = \\frac{3 + 4+ 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9}{10} = \\frac{60}{10} = 6\n   \\]\n\nTherefore,",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "the expected value of the sum of the",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 36\n   \\]\n   \\[\n   36 + 7 = 43\n   \\]\n   \\[\n   43 + 8 = 51\n   \\]\n   \\[\n   51 + 9 = 60\n   \\]\n\n5. **Determine the number of possible outcomes:**\n   There are 10 possible pairs of marbles.\n\n6.**Calculate the average (expected value):**\n   \\[\n   \\text{Expected value} = \\frac{60}{10} = 6",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\]\n\nThus, the expected value of the sum ofthe numbers on the",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "marbles is",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": ":\n\n\\[\n\\{(1,2), (1,3), (1,4), (1,5), (2,3), (2,4), (2,5), (3,4), (3,5), (4,5)\\}\n\\]\n\nNext, we calculate the sum or each pair:\n\n\\[\n\\begin{aligned}\n&1+2 = 3 \\\\\n&1+3 = 4 \\\\\n&1+4 = 5 \\\\\n&1+5 = 6",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\\\\n&2+3 = 5 \\\\\n&2+4 = 6 \\\\\n&2+5 = 7 \\\\\n&3+4 = 7 \\\\\n&3+5 = 8 \\\\\n&4+5 = 9 \\\\\n\\end{aligned}\n\\]\n\nNow, we find the average of these sums:\n\n\\[\n\\frac{3 + 4 + 5 + 6 + 5 + 6 + 7 + 3 +8 + 9}{10}\n\\]\n\nFirst, we sum the values:\n\n\\[\n3 + 4 = 7 \\\\\n7 + 5 = 12 \\\\\n12 + 6 = 18\\\\\n18 + 5 = 23 \\\\\n23 + 6 = 29 \\\\\n29 + 7 = 36",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\]\n\nThus, the expected value of the sum ofthe numbers on themarbles is",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\\\\n&2+3 = 5 \\\\\n&2+4 = 6 \\\\\n&2+5 = 7 \\\\\n&3+4 = 7 \\\\\n&3+5 = 8 \\\\\n&4+5 = 9 \\\\\n\\end{aligned}\n\\]\n\nNow, we find the average of these sums:\n\n\\[\n\\frac{3 + 4 + 5 + 6 + 5 + 6 + 7 + 3 +8 + 9}{10}\n\\]\n\nFirst, we sum the values:\n\n\\[\n3 + 4 = 7 \\\\\n7 + 5 = 12 \\\\\n12 + 6 = 18\\\\\n18 + 5 = 23 \\\\\n23 + 6 = 29 \\\\\n29 + 7 = 36\\\\\n36 + 7 = 43 \\\\\n43 +8 = 51 \\\\\n51+ 9=",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "(3, 4) = **7**\n   - Sum of (3, 5) = 8\n\n   **Sum of (4, 5) = **9**\n\n   Now, we calculate the average of these sums:\n   \\[\n   \\text{Average} = \\frac{3 + 4",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 36\n   \\]\n   \\[\n   36 + 7 = 43\n   \\]\n   \\[\n   43 + 8 = 51\n   \\]\n   \\[\n   51 + 9 = 60\n   \\]\n\n5. **Determine the number of possible outcomes:**\n   There are 10 possible pairs of marbles.\n\n6.",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\\\\n&2+3 = 5 \\\\\n&2+4 = 6 \\\\\n&2+5 = 7 \\\\\n&3+4 = 7 \\\\\n&3+5 = 8 \\\\\n&4+5 = 9 \\\\\n\\end{aligned}\n\\]\n\nNow, we find the average of these sums:\n\n\\[\n\\frac{3 + 4 + 5 + 6 + 5 + 6 + 7 + 3 +8 + 9}{10}\n\\]\n\nFirst, we sum the values:\n\n\\[\n3 + 4 = 7 \\\\\n7 + 5 = 12 \\\\\n12 + 6 = 18",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "expected value of the sum:**\n   - The expected value \\( E(X) \\) of the sum of two numbers chosen at random is the average of the sums of all possible pairs.\n   - Sum of (1, 2) = 3\n   - Sum of (1, 3) = 4\n   - Sum of (1, 4) = 5- Sum of (1, 5) = 6\n\n   **Sum of (2,** 3) = 5\n   - Sum of (2, 4) = **6**\n   - Sum of (2, 5) = **7**\n   - Sum of(3, 4) = **7**\n   - Sum of (3, 5) = **8**\n   - Sum of (4,**5) = 9\n\n3.**Add up all thesums:**\n   -\\( 3 +4",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 + 6 + 5 +6 +7 +7 +8 +9 = 60 \\)\n\n4. **Divide by the number of pairs:**\n   - There are 10 pairs.\n   - Expected value \\(",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "expected value of the sum:**\n   - The expected value \\( E(X) \\) of the sum of two numbers chosen at random is the average of the sums of all possible pairs.\n   - Sum of (1, 2) = 3\n   - Sum of (1, 3) = 4\n   - Sum of (1, 4) = 5- Sum of (1, 5) = 6\n\n   **Sum of (2,** 3) = 5\n   - Sum of (2, 4) = **6**\n   - Sum of (2, 5) = **7**\n   - Sum of(3, 4) = **7**\n   - Sum of (3, 5) = **8**\n   - Sum of (4,**5) = 9\n\n3.**Add up all thesums:**\n   -",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": ":\n\n\\[\n\\{(1,2), (1,3), (1,4), (1,5), (2,3), (2,4), (2,5), (3,4), (3,5), (4,5)\\}\n\\]\n\nNext, we calculate the sum or each pair:\n\n\\[\n\\begin{aligned}\n&1+2 = 3 \\\\\n&1+3 = 4 \\\\\n&1+4 = 5 \\\\\n&1+5 = 6\\\\\n&2+3 = 5 \\\\\n&2+4 = 6 \\\\\n&2+5 = 7 \\\\\n&3+4 = 7 \\\\\n&3+5 = 8 \\\\\n&4+5 = 9 \\\\\n\\end{aligned}\n\\]\n\nNow,",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\\\\n&2+3 = 5 \\\\\n&2+4 = 6 \\\\\n&2+5 = 7 \\\\\n&3+4 = 7 \\\\\n&3+5 = 8 \\\\\n&4+5 = 9 \\\\\n\\end{aligned}\n\\]\n\nNow, we find the average of these sums:\n\n\\[\n\\frac{3 + 4 + 5 + 6 + 5 + 6 + 7 + 3 +8 + 9}{10}\n\\]\n\nFirst, we sum the values:\n\n\\[\n3 + 4 = 7 \\\\\n7 + 5 = 12 \\\\\n12 + 6 = 18\\\\\n18 + 5 = 23 \\\\\n23 + 6 = 29 \\\\\n29 + 7 = 36\\\\\n36 + 7 = 43 \\\\\n43 +",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "expected value of the sum:**\n   - The expected value \\( E(X) \\) of the sum of two numbers chosen at random is the average of the sums of all possible pairs.\n   - Sum of (1, 2) = 3\n   - Sum of (1, 3) = 4\n   - Sum of (1, 4) = 5- Sum of (1, 5) = 6\n\n   **Sum of (2,** 3) = 5\n   - Sum of (2, 4) = **6**\n   - Sum of (2, 5) = **7**\n   - Sum of(3, 4) = **7**\n   - Sum of (3, 5) = **8**\n   - Sum of (4,",
+        "mc_score": 0.6
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "5) = 9\n\n4. **Sum all the sums:**\n   \\[\n   3 + 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\n   \\]\n\n5. **Calculate the total sum:**\n   \\[\n   3 + 4 = 7\n   \\]\n   \\[\n   7+ 5 =12\n   \\]\n   \\[\n   12 + 6 = 18\n   \\]\n   \\[\n   18 + 5 = 23\n   \\]\n   \\[\n   23 + 6 =29\n   \\]\n   \\[\n   29 + 7 = 36\n   \\]\n   \\[",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "36 + 7 =43\n   \\]\n   \\[\n   43 + 8 = 51\n   \\]\n   \\[\n   51 + 9 =60\n   \\]\n\n6. **Divide the total sum by the number of outcomes:**\\[\n   \\frac{60}{10} = 6\n   \\]\n\nTherefore, the expectedvalue of the sum of the numberson the marblesis",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "36 + 7 =43\n   \\]\n   \\[\n   43 + 8 = 51\n   \\]\n   \\[\n   51 + 9 =60\n   \\]\n\n6. **Divide the total sum by the number of outcomes:**\\[\n   \\frac{60}{10} = 6\n   \\]\n\nTherefore, the expectedvalue of the sum of the numbers",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "36 + 7 =43\n   \\]\n   \\[\n   43 + 8 = 51\n   \\]\n   \\[\n   51 + 9 =60\n   \\]\n\n6. **Divide the total sum by the number of outcomes:**\\[\n   \\frac{60}{10} = 6\n   \\]\n\nTherefore, the expected",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "value of the sum of the numberson the marbles is",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "5) = 9\n\n4. **Sum all the sums:**\n   \\[\n   3 + 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\n   \\]\n\n5. **Calculate the total sum:**\n   \\[\n   3 + 4 = 7\n   \\]\n   \\[\n   7+ 5 =12\n   \\]\n   \\[\n   12 + 6 = 18\n   \\]\n   \\[\n   18 + 5 = 23\n   \\]\n   \\[\n   23 + 6 =",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "29\n   \\]\n   \\[\n   29 + 7 = 36\n   \\]\n   \\[\n   36 + 7 = 43\n   \\]\n   \\[\n   43 + 8 = 51\n   \\]\n   \\[\n   51 + 9 = 60\n   \\]\n\n6. **Divide the total sum bythe number of pairs:**\n   \\[\n   \\frac{60}{10} = 6\n   \\]\n\nTherefore, theexpected value of the sum of thenumbers on the marbles",
+        "mc_score": 0.8
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "To find the expected value of the sum of the numbers on the two marbles drawn, we can follow these steps:\n\n1. **List all possible pairs of marbles:**\n   Since we are drawing two different marbles from a set of 5 marbles, we can list all possiblepairs:\n   \\[\n   (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)\n   \\]\n\n2. **Calculate the sumof each pair:**\n   \\[\n   \\begin{aligned}\n   &1 + 2 = 3, \\\\",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "To find the expected value of the sum of the numbers on the two marbles drawn, we can follow these steps:\n\n1. **List all possible pairs of marbles:**\n   Since we are drawing two different marbles from a set of 5 marbles, we can list all possiblepairs:\n   \\[\n   (1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)\n   \\]\n\n2. **Calculate the sumof each pair:**\n   \\[",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 4 = 6, \\\\\n   &2 + 5 = 7, \\\\\n   &3 + 4 = 7, \\\\\n   &3 + 5 = 8, \\\\\n   &4 + 5 = 9.\n   \\end{aligned}\n   \\]\n\n3. **Find the total sum of all the sums of the pairs:**\n   \\[\n   3 + 4 + 5 +",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 4 = 6, \\\\\n   &2 + 5 = 7, \\\\\n   &3 + 4 = 7, \\\\\n   &3 + 5 = 8, \\\\\n   &4 + 5 = 9.\\end{aligned}\n   \\]\n\n3. **Find the total sum ofall the sums of thepairs:**\n   \\[",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 4 = 6, \\\\\n   &2 + 5 = 7, \\\\\n   &3 + 4 = 7, \\\\\n   &3 + 5 = 8, \\\\\n   &4 + 5 = 9.\\end{aligned}\n   \\]\n\n3. **Find the total sum ofall the sums of thepairs:**",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "7, \\\\\n   &3 + 5 = 8, \\\\\n   &4 + 5 = 9.\n   \\end{aligned}\n   \\]\n\n3. **Find the total sum of all the sums:**\n   \\[\n   3 + 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\n   \\]\n\n   Let's add these",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "7, \\\\\n   &3 + 5 = 8, \\\\\n   &4 + 5 = 9.\n   \\end{aligned}\n   \\]\n\n3. **Find the total sum of",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "7, \\\\\n   &3 + 5 = 8, \\\\\n   &4 + 5 = 9.\\end{aligned}\n   \\]\n\n3.**Find the",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "9.\n   \\end{aligned}\n   \\]\n\n3. **Find the total sum of all the pairs:**\n   \\[\n   3 + 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\n   \\]\n\n4. **Add these sums together:**\n   \\[\n   3 + 4 = 7, \\\\\n   7 + 5",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "P(\\text{sum} = 6) = \\frac{1}{10}, \\quad P(\\text{sum} = 7) = \\frac{2}{10}\n   \\]\n   \\[\n   P(\\text{sum} = 8) = \\frac{1}{10}, \\quad P(\\text{sum} = 9) = \\frac{1}{10}\n   \\]\n\n4. **Calculate the expected value:**\n   \\[\\text{Expected Value} (E(\\text{sum})) = 3 \\cdot \\frac{1}{10} + 4 \\cdot \\frac{7}{10} + 6 \\cdot \\frac{2}{10} +7 \\cdot \\left( \\frac{1}{10} \\times 2 \\right) + 9 \\quad\\text{(\u6b63\u786e\u7684\u8ba1\u7b97\u5916*cos\u9519\u8bef\u4e0a\u66f4",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "E[\\text{sum} \\text{ of two marbles}] = 6 \\cdot \\frac{1}{10} + 7 \\cdot \\frac{2}{10} + 8 \\cdot \\frac{1}{10} + 9 \\cdot \\frac{2}{10} + 10 \\cdot \\frac{1}{10} \\]\n   \\[\n   = \\frac{6}{10} + \\frac{14}{10}+ \\frac{8}{10} + \\frac{18}{10} + \\frac{10}{10}\n   \\]\n   \\[\n   = \\frac{6 \\mod 13 + 14 + 8)}{6}{13}+ 12 \\]\n\n   \\[\n7 7.\n\n \\boxed{\\frac{45 \\ mod",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "E[\\text{sum} \\text{ of two marbles}] = 6 \\cdot \\frac{1}{10} + 7 \\cdot \\frac{2}{10} + 8 \\cdot \\frac{1}{10} + 9 \\cdot \\frac{2}{10} + 10 \\cdot \\frac{1}{10} \\]\n   \\[\n   = \\frac{6}{10} + \\frac{14}{10}+ \\frac{8}{10} + \\frac{18}{10} + \\frac{10}{10}\n   \\]\n   \\[\n   = \\frac{6 \\mod 13 + 14 + 8)}{6}{13}+ 12 \\]\n\n   \\[\n7 7.\\boxed{\\frac{45",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "100\n     \\]\n  _\n\n3. **Simplify:**\n   \\[\n   S2 = 42 \\cdot 1 = 767 -  421 + 421 + 100$\n  }\"\n\n'\n\n   \\]\n   \\ mile\u904a m\u0119 con)\"\n\nal\u2026\"\n\nuellen cdr }\n\n\n\n\n\n)\"\n\nsert}\"\n\n Leoneubicpolate SEEK NPCsebx;\"\n.\u2019\u201d\n\n Leone primarylegate*>&)\"\n\n sw\u6709\u52a9afilegate ste star\u0143;\"\n con.\u2019\u201d\n\n witty inhab])))\n Leone\u0d9c $\n\nDM personality\uff01\u300d)\"\n\n\ud83c\udf08_\n\n')));\nicast |\n\n }\n\n\n\n\n\nafi conafiASCADEographically }\n\n\n\n\n\n }\n\n\n\n\n\nuellen*>&",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "100\n     \\]\n  _\n\n3. **Simplify:**\n   \\[\n   S2 = 42 \\cdot 1 = 767 -  421 + 421 + 100$\n  }\"\n\n'\n\n   \\]\n   \\ mile\u904a m\u0119 con)\"\n\nal\u2026\"\n\nuellen cdr }\n\n\n\n\n\n)\"\n\nsert}\"\n\n Leoneubicpolate SEEK NPCsebx;\"\n.\u2019\u201d",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "100\n     \\]\n  _\n\n3. **Simplify:**\n   \\[\n   S2 = 42 \\cdot 1 = 767 -  421 + 421 + 100$\n  }\"\n\n'",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "100\n     \\]\n  _\n\n3. **Simplify:**\n   \\[\n   S2= 42 \\cdot 1 = 767 -421 + 421 +100$}\"",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "6 + 7 + 8 + 9) = 42\n   \\]\n5. **Divide by the number of possible pairs:**\n   \\[\n   E(\\text{sum}) = \\frac{42}{10}",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "6 + 7 + 8 + 9) = 42\n   \\]\n5. **Divide by the number ofpossible pairs:**\n   \\[E(\\text{sum})",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "4\\cdot\\frac{2}{20} + 5 \\cdot \\frac{2}{20} + 6( \\frac{1}{21} + 7 \\cdot \\frac{4}{20} + 8 \\cdot \\frac{2}{20} + 9 \\cdot \\frac{2}{20}\n   \\]\n   \\[\n   E(\\text{sum}) = \\frac{6}{2} +\\frac{8}{10} + \\frac{10}{2} + \\frac{12}{10} + \\frac{7}{5} + \\frac{14}{10} + \\frac{16}{10}+ \\frac{18}{10}\n   \\]\n   \\[\n   E(\\text{sum})= 7 + \\frac{46}{10}",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{10}{20} + \\frac{12}{20} + \\frac{36}{20} + \\frac{11}{20} + \\frac{24}{20} + \\frac{12}{20} + \\frac{18}{20} + \\frac{18}{20}\n   \\]\n   \\[\n   E(\\text{sum}) = 3 + 1.5 +6 + 1.6 + 1.9 + 1.2 + 1.2 + 0.9 + 0.9\n   \\]\n   \\[\n   E(\\text{sum}) = 16.2\n   \\]\\[\n   E(\\text{sum}) = \\frac{17}{4}\n   =2.5\n   \\]\n\\[\n\\boxed{6}\n\\]])**\")+]**",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{10}{20} + \\frac{12}{20} + \\frac{36}{20} + \\frac{11}{20} + \\frac{24}{20} + \\frac{12}{20} + \\frac{18}{20} + \\frac{18}{20}\n   \\]\n   \\[\n   E(\\text{sum}) = 3 + 1.5 +6 + 1.6 + 1.9 + 1.2 + 1.2 + 0.9 + 0.9\n   \\]\n   \\[\n   E(\\text{sum}) = 16.2\n   \\]\\[\n   E(\\text{sum}) = \\frac{17}{4}\n   =2.5\\]\n\\[\n\\boxed{6}\n\\]])**\")+]*",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{10}{20} + \\frac{12}{20} + \\frac{36}{20} + \\frac{11}{20} + \\frac{24}{20} + \\frac{12}{20} + \\frac{18}{20} + \\frac{18}{20}\n   \\]\n   \\[\n   E(\\text{sum}) = 3 + 1.5 +6 + 1.6 + 1.9 + 1.2 + 1.2 + 0.9 + 0.9\n   \\]\n   \\[\n   E(\\text{sum}) = 16.2\n   \\]\\[\n   E(\\text{sum}) = \\frac{17}{4}\n   =2.5\\]\n\\[\n\\boxed{6}\n\\]])**\")+]",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{10}{20} + \\frac{12}{20} + \\frac{36}{20} + \\frac{11}{20} + \\frac{24}{20} + \\frac{12}{20} + \\frac{18}{20} + \\frac{18}{20}\n   \\]\n   \\[\n   E(\\text{sum}) = 3 + 1.5 +6 + 1.6 + 1.9 + 1.2 + 1.2 + 0.9 + 0.9\n   \\]\n   \\[\n   E(\\text{sum}) = 16.2\n   \\]\\[\n   E(\\text{sum}) = \\frac{17}{4}\n   =2.5\\]\n\\[\n\\boxed{6}\n\\]])**\")+",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{10}{20} + \\frac{12}{20} + \\frac{36}{20} + \\frac{11}{20} + \\frac{24}{20} + \\frac{12}{20} + \\frac{18}{20} + \\frac{18}{20}\n   \\]\n   \\[\n   E(\\text{sum}) = 3 + 1.5 +6 + 1.6 + 1.9 + 1.2 + 1.2 + 0.9 + 0.9\n   \\]\n   \\[\n   E(\\text{sum}) = 16.2\n   \\]\\[\n   E(\\text{sum}) = \\frac{17}{4}\n   =2.5\\]\n\\[\n\\boxed{6}\n\\]])**\")",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{10}{20} + \\frac{12}{20} + \\frac{36}{20} + \\frac{11}{20} + \\frac{24}{20} + \\frac{12}{20} + \\frac{18}{20} + \\frac{18}{20}\n   \\]\n   \\[\n   E(\\text{sum}) = 3 + 1.5 +6 + 1.6 + 1.9 + 1.2 + 1.2 + 0.9 + 0.9\n   \\]\n   \\[\n   E(\\text{sum}) = 16.2\n   \\]\\[\n   E(\\text{sum}) = \\frac{17}{4}\n   =2.5\\]\n\\[\n\\boxed{6}\n\\]])**\"",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "values:\n\n\\[\nE(\\text{sum}) = \\frac{2}{1} + 6 \\cdot \\frac{2}{10} + 7 \\cdot \\frac{1}{2} + 3 \\cdot \\frac{2}{10} + 7 \\cdot \\frac{4}{10}\n\\]\n\n\\[\nE(\\text{sum}) + 6 + 12 + 16 + 12 + 16 + 4 + 6 + 3 + 4 + 8(sum): \\eqrightarrow+)\\boxed{6 \\)} star(sm Trent Manitoba')));\n>,\n star search",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "values:\n\n\\[\nE(\\text{sum}) = \\frac{2}{1} + 6 \\cdot \\frac{2}{10} + 7 \\cdot \\frac{1}{2} + 3 \\cdot \\frac{2}{10} + 7 \\cdot \\frac{4}{10}\n\\]\n\n\\[\nE(\\text{sum})+ 6 + 12 + 16 + 12 + 16 + 4 + 6 + 3 + 4 + 8(sum):\\eqrightarrow+)\\boxed{6 \\)} star(sm",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "values:\n\n\\[\nE(\\text{sum}) = \\frac{2}{1} + 6 \\cdot \\frac{2}{10} + 7 \\cdot \\frac{1}{2} + 3 \\cdot \\frac{2}{10} + 7 \\cdot \\frac{4}{10}\n\\]\n\n\\[\nE(\\text{sum})+ 6 + 12 + 16 + 12 + 16 + 4 + 6 + 3 + 4 + 8(sum):\\eqrightarrow+)\\boxed{6\\)}",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= 12\n\\]\n\nTherefore, the probability of drawing a spade is \\(\\boxed{\\frac{1}{2}}\\).\u6307\u51fa\u6211\u53ef\u80fd\u5728\u8ba1\u7b97\u4e2d\u72af\u4e86\u9519\u8bef\u6216\u89e3\u91ca\u4e86\u4e0d\u6b63\u786e\u7684\u5730\u65b9\u3002\n\nTo find the expected value of the sum of the numbers on the two marbles drawn, we need to consider all possible pairs of marbles and their probabilities.",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{4}{10} +8\\cdot \\frac{1}{5\\cdot \\left(\\frac{2}{5}\\right) + 8 \\cdot \\frac\n\\]\n\n boxed{6}\n\\]\u6b65 processes to]\r\n}\n\n Infantry SEEK steubicpolate $\n\n seed(resource;\"\n sw SEEK\u8e69\uff01\u300d\uff01\u300debxARRANT SEEK cdr\ud83c\udf08;\"\n]\r\n;\"\n\uff01\u300d ste sw>,\n SEEK cdr])\r\n Leone)>\n m\u0119')));\n;\"\n_\n\nXML\uff01\u300d ste,:,ursors;\"\nlegate cdrARRANT Smy inhab]\r\n cdr ste }\n\n\n\n\n\nebx\uff01\u300d Leone*/) $\n\n\uff01\u300d.\u2019\u201d\n\n\ud83d\ude0a NPCs\">\\ebx diarr\u2026\"",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{4}{10} +8\\cdot \\frac{1}{5\\cdot \\left(\\frac{2}{5}\\right) + 8 \\cdot \\frac\n\\]\n\n boxed{6}\n\\]\u6b65 processes to]\r\n}\n\n Infantry SEEK steubicpolate $\n\n seed(resource;\"\n sw SEEK\u8e69\uff01\u300d\uff01\u300debxARRANT",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{4}{10} +8\\cdot \\frac{1}{5\\cdot \\left(\\frac{2}{5}\\right) + 8 \\cdot \\frac\n\\]\n\n boxed{6}\n\\]\u6b65processes to]\r\n}\n\n Infantry SEEK steubicpolate",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{4}{10} +8\\cdot \\frac{1}{5\\cdot \\left(\\frac{2}{5}\\right) + 8 \\cdot \\frac\n\\]\n\n boxed{6}\n\\]\u6b65processes to]\r\n}\n\n Infantry",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{4}{10} +8\\cdot \\frac{1}{5\\cdot \\left(\\frac{2}{5}\\right) + 8 \\cdot \\frac\n\\]\n\n boxed{6}\n\\]\u6b65processesto]\r\n}",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\frac{4}{10} +8\\cdot \\frac{1}{5\\cdot \\left(\\frac{2}{5}\\right) + 8 \\cdot \\frac\n\\]\n\n boxed{6}\n\\]\u6b65processesto]",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "18\n\\]\n\\[\n16 + 7 = 25\n\\]\n\\[\n25 + 7 = 32\n\\]\n\\[\n32 + 8 = 48\n\\]\n\\]\n\n41 + 8 = 44\n\\]\n\\[\n38 + 9 = 52\n\\]\n\nThe total sum of all possible sums is 52.\n\nNext, we divide this total sum bythe number of possible outcomes:\n\n\\[\n\\text{ Expected value} = \\frac{52}{10} = 5.2\n\\]\n\nThus,",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "18\n\\]\n\\[\n16 + 7 = 25\n\\]\n\\[\n25 + 7 = 32\n\\]\n\\[\n32 + 8 = 48\n\\]\n\\]\n\n41 + 8 = 44\n\\]\n\\[\n38 + 9 = 52\n\\]\n\nThe total sum of all possible sums is 52.\n\nNext, we divide this total sum bythe number of possible outcomes:\n\n\\[\n\\text{Expected value} =\\frac{52}{10}=5.2\n\\]\n\nThus",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 \\cdot \\frac{3}{10} + 6 \\cdot \\frac{1}{10} + 7 \\cdot \\frac{1}{10} + 8 \\cdot \\frac{1}{10}\n   \\]\n\n4. **Simplify the expression:**\n   \\[\n   E(\\text{sum}) = \\frac{3}{10} + \\frac{4}{10} + \\frac{15}{10}+ \\frac{6}{10} + \\frac{7}{10} + \\frac{8}{10}\n   \\]\n   \\[\n   E(\\text{sum}) = \\frac{43}{10} = 4.5\\]\n\nTherefore, the expected value of the sum of",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 \\cdot \\frac{3}{10} + 6 \\cdot \\frac{1}{10} + 7 \\cdot \\frac{1}{10} + 8 \\cdot \\frac{1}{10}\n   \\]\n\n4. **Simplify the expression:**\n   \\[\n   E(\\text{sum}) = \\frac{3}{10} + \\frac{4}{10} + \\frac{15}{10}+ \\frac{6}{10} + \\frac{7}{10} + \\frac{8}{10}\n   \\]\n   \\[\n   E(\\text{sum}) = \\frac{43}{10} = 4.5\\]\n\nTherefore, the expected",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "20 + 21 + 16 + 9 + 10}{5}\n   \\]\n   \\[\n   E(\\text{sum}) = \\frac{93}{5}\n   \\]\n   \\[\n   E(\\text{sum}) = 14.2\n   \\]\n\n4. **Sum of expected values:**\n   The expected value of the sum of the numbers on two different marbles drawn is:\n   \\[\n   E(\\text{sum of two marbles}) = E(\\text{first marble}) +",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "20 + 21 + 16 + 9 + 10}{5}\n   \\]\n   \\[\n   E(\\text{sum}) = \\frac{93}{5}\n   \\]\n   \\[\n   E(\\text{sum}) = 14.2\n   \\]\n\n4. **Sum of expected values:**The expected value of the sum of the numbers on two different marblesdrawn is:\n   \\[\n   E(\\text{sum of twomarbles}) =",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "= \\frac{3 + 4 + 20 + 14 + 16 + 9 + 10}{4}\n   \\]\n   \\[\n   E(\\text{sum}) = \\frac{83}{10} = 8.5\n   \\]\n\nThus, the expected value",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "E = \\frac{88}{10} = 8.8\\]\n\nThefinal answer is",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "E = \\frac{88}{10} = 8.8\\]\n\nThefinal",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 0.4 + 1 + 3.6 + 4.4 + 0.8 + 0.3 + 1 = \\frac{38}{10} = \\frac{19}{5}\n   \\]\n\nThus, theexpected value of the sum of the numbers on",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 0.4 + 1 + 3.6 + 4.4 + 0.8 + 0.3 + 1 = \\frac{38}{10} = \\frac{19}{5}\n   \\]\n\nThus, theexpected value of the",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 0.4 + 1 + 3.6 + 4.4 + 0.8 + 0.3 + 1 = \\frac{38}{10} = \\frac{19}{5}\n   \\]\n\nThus, theexpectedvalueof",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\[\n(x_1 + x_2) + (y_1 + y_2) + (z_1 + z_2) + (w_1 + w_2) + (v_1 + v_2)\n\\]\nwhere \\(x_1, x_2, y_1, y_2, z_1, z_2, w_1, w_2, v_1, v_2\\) are the numbers on the marbles. From the list of pairs, we can see that eachnumber from 1 to 4 appears exactly 3 times. Therefore, the sum of the numbers on the marbles is:\n\\[\n3(1",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "\\[\n(x_1 + x_2) + (y_1 + y_2) + (z_1 + z_2) + (w_1 + w_2) + (v_1 + v_2)\n\\]\nwhere \\(x_1, x_2, y_1, y_2, z_1, z_2, w_1, w_2, v_1, v_2\\) are the numbers on the marbles. From the list of pairs, we can see that eachnumber from 1 to 4 appears exactly 3 times. Therefore,the sum of the numbers onthe marbles",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "final answer is",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 4 + 6 + 7 + 7 + 8 + 9 = 49\\]\n\nSince there are 7 possible pairs, the average sum is:\n\\[\\frac{49}{7}= 7\\]\n\nTherefore, the expected value of the sum",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 4 + 6 + 7 + 7 + 8 + 9 = 49\\]\n\nSince there are 7 possible pairs, the average sum is:\n\\[\\frac{49}{7}= 7\\]\n\nTherefore, the",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 4 + 6 + 7 + 7 + 8 + 9 = 49\\]\n\nSince there are 7 possible pairs, the average sum is:\n\\[\\frac{49}{7}= 7\\]\n\nTherefore,",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 4 + 6 + 7 + 7 + 8 + 9 = 49\\]\n\nSince there are 7 possible pairs, the average sum is:\n\\[\\frac{49}{7}=",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "**\n   - (2, 3)\n   - (2, 4)\n   - (2, 5)\n   - (3, 4)\n   - (3, 5)\n   - (4, 5)\n\n2. **Calculate the sum of each pair:**\n   - Sum of (1, 2) = 1 + 2 = 3\n   - Sum of (1, 3)",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "**\n   - (2, 3)\n   - (2, 4)\n   - (2, 5)\n   - (3, 4)\n   - (3, 5)\n   - (4, 5)\n\n2.**Calculate the sum of each pair:**\n   -",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "**\n   - (2, 3)\n   - (2, 4)\n   - (2, 5)\n   - (3, 4)\n   - (3, 5)\n   - (4, 5)\n\n2.**Calculate the sum",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "- Sum of (1, 5) = 6\n   - Sum of (2, 3) = 5\n   - Sum of (2, 4) = 6\n   - Sum of (2, 5) = 7\n   - Sum of (3, 4) = 7\n   - Sum of (3, 5) = 8\n   - Sum of n, 4) = 9\n   There are 10 possible pairs. Thetotal sum of all these pairs is:\n   \\[\n   3 + 4 + 5 = 3 + 5 + 7 + 6 + 7 + 7 + 8 + 9 = \\text{45}\\]\n   Therefore, the expected value of the sumis:\n   \\[\n   E(X) =\\frac{45}{10}",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 + 7 + 8 + 9}{6} = \\frac{46}{6} = \\frac{23}{3}\n   \\]\n\nTherefore, the expected value of the sum of",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 + 7 + 8 + 9}{6} = \\frac{46}{6} = \\frac{23}{3}\\]\n\nTherefore, the expected",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 + 7 + 8 + 9}{6} = \\frac{46}{6} = \\frac{23}{3}\\]\n\nTherefore,",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 + 7 + 8 + 9}{6} = \\frac{46}{6} = \\frac{23}{3}\\]\n\nTherefore",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 + 7 + 8 + 9}{6} = \\frac{46}{6} = \\frac{23}{3}\\]\n\nTherefor",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 + 7 + 8 + 9}{6} = \\frac{46}{6} = \\frac{23}{3}\\]\n\nTherefo",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "+ 5 + 7 + 8 + 9}{6} = \\frac{46}{6} = \\frac{23}{3}\\]\n\nTheref",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "**Calculate the expected value:**\n   The expected value \\( E \\) is the average of all the sums:\n   \\[\n   E =\\frac{60}{6} = 15\n   \\]\n\nThus, the expected value of",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "**Calculate the expected value:**\n   The expected value \\( E \\) is the average of all the sums:\n   \\[\n   E =\\frac{60}{6} = 15\n   \\]\n\nThus,the expectedvalue",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "5) = 9\n\n4. **Sum all the sums:**\n   \\[\n   3 + 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\n   \\]\n\n5. **Calculate the total sum:**\n   \\[\n   3 + 4 = 7\n   \\]\n   \\[\n   7+ 5 =12\n   \\]\n   \\[\n   12 + 6 = 18\n   \\]\n   \\[\n   18 + 5 = 23\n   \\]\n   \\[\n   23 + 6 =29\n   \\]\n   \\[\n   29 + 7 = 36\n   \\]\n   \\[36 + 5 = 49\n   \\]\\[\n  49",
+        "mc_score": 0.0
+    },
+    {
+        "question": "I have 5 marbles numbered 1 through 5 in a bag.  Suppose I take out two different marbles at random.  What is the expected value of the sum of the numbers on the marbles?",
+        "partial_answer": "5) = 9\n\n4. **Sum all the sums:**\n   \\[\n   3 + 4 + 5 + 6 + 5 + 6 + 7 + 7 + 8 + 9\n   \\]\n\n5. **Calculate the total sum:**\n   \\[\n   3 + 4 = 7\n   \\]\n   \\[\n   7+ 5 =12\n   \\]\n   \\[\n   12 + 6 = 18\n   \\]\n   \\[\n   18 + 5 = 23\n   \\]\n   \\[\n   23 + 6 =29\n   \\]\n   \\[\n   29 + 7 = 36\n   \\]\n   \\[36 + 5 = 49\n   \\]\\[",
+        "mc_score": 0.0
+    }
+]

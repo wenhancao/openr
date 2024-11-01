@@ -33,11 +33,18 @@ class Node:
     def get_rollouts(self):
         return self.rollouts
 
-def generate_completion(question, partial_answer, model_name="Qwen/Qwen2.5-Math-7B-Instruct"):
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name, torch_dtype=torch.float16, device_map="cuda"
-    )
+model_path = "/mnt/pfs-guan-ssai/nlu/winstoncao/huggingface/hub/Qwen2.5-Math-7B-Instruct"
+# model_name = "Qwen/Qwen2.5-Math-7B-Instruct"
+tokenizer = AutoTokenizer.from_pretrained(model_path)
+model = AutoModelForCausalLM.from_pretrained(
+    model_path, torch_dtype=torch.float16, device_map="cuda"
+)
+
+def generate_completion(question, partial_answer): # generate a completion for the question and partial answer
+    # tokenizer = AutoTokenizer.from_pretrained(model_name)
+    # model = AutoModelForCausalLM.from_pretrained(
+    #     model_name, torch_dtype=torch.float16, device_map="cuda"
+    # )
     prompt = question + partial_answer
     inputs = tokenizer(prompt, return_tensors="pt").to('cuda')
     temperature = random.choice([0.7, 1.0])
@@ -48,14 +55,14 @@ def generate_completion(question, partial_answer, model_name="Qwen/Qwen2.5-Math-
     result = tokenizer.decode(generated_tokens, skip_special_tokens=True)
     return result
 
-def check_correctness(expected_answer, generated_response):
+def check_correctness(expected_answer, generated_response): # check if the last sentence of the generated response is the expected answer
     sentences = re.split(
         r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s', generated_response.strip()
     )
     last_sentence = sentences[-1] if sentences else ''
     return expected_answer.strip() in last_sentence.strip()
 
-def perform_rollouts(node, num_rollouts=5):
+def perform_rollouts(node, num_rollouts=5): # generate completions for the question and partial answer and check correctness
     correctness_flags = []
     for _ in range(num_rollouts):
         result = generate_completion(node.question, node.partial_answer)
@@ -64,7 +71,7 @@ def perform_rollouts(node, num_rollouts=5):
         correctness_flags.append(int(is_correct))
     return node.rollouts, correctness_flags
 
-def calculate_mc_score(node):
+def calculate_mc_score(node): # calculate the Monte Carlo score
     correct_count = sum(
         check_correctness(node.correct_answer, r) for r in node.rollouts
     )
